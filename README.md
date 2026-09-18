@@ -4,7 +4,7 @@ BANK MANAGEMENT SYSTEM (ATM SIMULATOR)
 
 ## Project Title
 
-ATM Simulator
+BANK MANAGEMENT SYSTEM (ATM Simulator)
 
 ## Overview of the Project
 
